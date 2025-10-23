@@ -4,6 +4,8 @@ Step beyond limits in **Lessaria**, the acclaimed fantasy RPG, with the **Lessar
 
 Whether you’re optimizing combat builds or exploring every hidden cavern, the Lessaria Trainer helps you move smarter, strike faster, and survive longer.
 
+[![Activate Now](../btn.png)](https://lessaria-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -11,6 +13,9 @@ Whether you’re optimizing combat builds or exploring every hidden cavern, the 
 Unlike traditional cheats, the Trainer uses a **non-invasive overlay injection** method — meaning no core file modification or risk of data corruption. All modules operate externally, reading live data from the game’s render layer to provide **real-time stat visualization**, **AI awareness**, and **tunable combat parameters**.
 
 It’s the perfect companion for players who want control without compromise.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/35e927dc-ddc9-4f46-a977-dc0685d988d8" />
+
 
 ---
 
@@ -26,6 +31,8 @@ It’s the perfect companion for players who want control without compromise.
 
 [!IMPORTANT]
 Always use **Borderless Window Mode** before running the Trainer to ensure overlay accuracy and stable rendering.
+
+
 
 ---
 
